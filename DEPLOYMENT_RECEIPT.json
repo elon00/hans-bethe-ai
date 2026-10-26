@@ -1,0 +1,14 @@
+{
+  "project": "hans-bethe-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "DBJjBFbxYZrkQBRL5gSai7T6SpyQ8mu6qAP1iVu5h5nG",
+  "vault_account": "B7ZF4FT7s6J4PMmHzP2qJfKDfdJ6uhpYFnqqUJhKCq6c",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "4ToBsULcmPTdUiQz7u62nWGh3foRfHNKifzVfkhbau2EjQWVCcqbp3UQ8a5jHkf984p1ahAy3tZaxzpxPcfinoa4",
+  "account_tx": "43szWy4KF6Pd1W9EkgG4hj9AgSnTowdxnG3svP74EhpW4sCDFjuhVGfzHXKztFB7F4qHpt71f7Np6G4EBxDRSkUr",
+  "mint_tx": "2pfoiX1o7JM5NWQU1gc2UeRXjS9TpzpKymKfzYhP6u5PbRw7jxvfsBPYXGeN4wYvoow9N6iYoJeFANZtbDKaLxd",
+  "solana_explorer_mint": "https://explorer.solana.com/address/DBJjBFbxYZrkQBRL5gSai7T6SpyQ8mu6qAP1iVu5h5nG?cluster=devnet",
+  "timestamp": "2026-10-26 16:36:07 UTC"
+}
